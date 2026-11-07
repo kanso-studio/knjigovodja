@@ -943,6 +943,10 @@ footer {
         grid-template-columns: 1fr;
     }
 
+    .clients-logos {
+        display: none;
+      }
+
     .footer-grid { grid-template-columns: 1fr; text-align: center; }
     .social-links { justify-content: center; }
     .footer-bottom { flex-direction: column; gap: 15px; text-align: center; }
